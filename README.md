@@ -1,2 +1,2 @@
 # WatchlistApplication
-#movie
+# this is java based project
